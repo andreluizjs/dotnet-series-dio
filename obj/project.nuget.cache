@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZujYtvD/IokRQC8aZDFPlEoQ4bzy8c924dVjfpr/4e7CV4xfALhGm3TJSYIxgStCSk5+U6zKu/hDBFTktHD6Q==",
+  "success": true,
+  "projectFilePath": "/home/dreluiz/Workspace/Dio/csharp/series-dotnet-dio/DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "/home/dreluiz/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
